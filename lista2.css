@@ -39,3 +39,46 @@
 span {
   color: red;
 }
+
+/*-------------------------Divs do exercício 23*---------------------------*/
+#divPrecoUnitario{
+    /*  border: 1px solid cyan; */
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+#divPrecoTotal{
+  /*  border: 1px solid cyan; */
+  text-align: center;
+  margin-bottom: 10px;
+}
+
+#divDesconto{
+    /*  border: 1px solid cyan; */
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+/*-------------------divs do exercício 24----------------------------*/
+#divAumento{
+      /*  border: 1px solid cyan; */
+      text-align: center;
+      margin-bottom: 10px;
+}
+
+#divImposto{
+        /*  border: 1px solid cyan; */
+        text-align: center;
+        margin-bottom: 10px;
+}
+
+#divNovoPreco{
+  /*  border: 1px solid cyan; */
+  text-align: center;
+  margin-bottom: 10px;
+}
+#divClassificacao{
+    /*  border: 1px solid cyan; */
+    text-align: center;
+    margin-bottom: 10px;
+}
